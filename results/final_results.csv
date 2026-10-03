@@ -1,0 +1,5 @@
+Policy,Before Shift Faults,After Shift Faults,Before Shift Hit Ratio,After Shift Hit Ratio,Total Faults
+FIFO,210,485,0.79,0.515,695
+LRU,133,489,0.867,0.511,622
+Optimal,80,260,0.92,0.74,340
+Learned,128,520,0.872,0.48,648
